@@ -1,0 +1,2 @@
+# IMPORTANT! YOU NEED TO KNOW WHY THIS FEATURE EXISTS!!!
+The reason that this exists is me and my brother play a game where we are in the same Shell Shockers lobby, and he has to guess who I am just by my killstreaks and gameplay. But since I have a pc, he would always accidentally see it, and it would spoil the fun. So, I made this feature to prevent peaking!

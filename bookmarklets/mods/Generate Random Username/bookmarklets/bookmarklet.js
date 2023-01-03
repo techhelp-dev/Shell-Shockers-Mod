@@ -1,0 +1,1 @@
+javascript:(function()%7B%2F%2FDO%20NOT%20DISTRIBUTE%20THIS%20CODE%0A%0A%2F%2FDeclare%20a%20variable%20with%20the%20return%20of%20extern.generateRandomName()%0Aconst%20name%20%3D%20window.extern.generateRandomName()%3B%0A%0A%2F%2FAlert%20the%20variable%0Aalert(name)%3B%7D)()%3B

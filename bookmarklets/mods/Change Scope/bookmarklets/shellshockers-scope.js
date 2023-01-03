@@ -1,0 +1,1 @@
+javascript:(function()%7Bconsole.log('Shell%20Shockers%20Dark%20Mode%20---%20API')%3B%0Aconsole.log('Scope%20Reset')%3B%0Avar%20rooted%20%3D%20document.querySelector('%3Aroot')%3B%0Avar%20image%20%3D%20'url(https%3A%2F%2Fshellshock.io%2Fimg%2Fscope.png)'%0Arooted.style.setProperty('--scope'%2C%20image)%3B%0Aalert('Your%20scope%20was%20set.')%3B%7D)()%3B
