@@ -1,0 +1,1 @@
+javascript:(function()%7Bdocument.getElementById('playerList').style%3D%22display%3A%20none%22%3B%0Aalert('Leaderboard%20is%20hidden.%20%3A)')%7D)()%3B
