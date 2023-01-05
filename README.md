@@ -1,7 +1,8 @@
 # Shell Shockers Dark Mode
 The Shell Shockers dark mode bookmarklets, and source code. Before you use this, if you are on an unrestricted computer, we highly reccomend using our chrome extension!
 <br><br>
-[Click here for the chrome extension!](https://chrome.google.com/webstore/detail/dark-mode-a-mod-and-shell/mbbolbckjdjlfpjahlbhcodgagdpcdnf)
+
+### [Click here for the chrome extension!](https://chrome.google.com/webstore/detail/dark-mode-a-mod-and-shell/mbbolbckjdjlfpjahlbhcodgagdpcdnf)
 <br>
 
 ### [UI](bookmarklets/mods/UI%20(all%20mods)/)<br>
