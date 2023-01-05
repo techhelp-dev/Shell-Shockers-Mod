@@ -3,7 +3,6 @@ The Shell Shockers dark mode bookmarklets, and source code. Before you use this,
 <br><br>
 
 ### [Click here for the chrome extension!](https://chrome.google.com/webstore/detail/dark-mode-a-mod-and-shell/mbbolbckjdjlfpjahlbhcodgagdpcdnf)
-<br>
 
 ### [UI](bookmarklets/mods/UI%20(all%20mods)/)<br>
 
