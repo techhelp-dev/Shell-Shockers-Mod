@@ -17,7 +17,7 @@ The Shell Shockers dark mode bookmarklets, and source code. Before you use this,
 
 ## How To Use
 You have 2 options.
-    * Use a bookmark
+..* Use a bookmark
 
 
 ```javascript
