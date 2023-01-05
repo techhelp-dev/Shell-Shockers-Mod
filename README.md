@@ -19,4 +19,4 @@ The Shell Shockers dark mode bookmarklets, and source code. Before you use this,
 You have 2 options.
 1. Find the mod you want, and copy the code. Then create a bookmark, click more, and set the url to the code you pasted. If you see that it is red, go to the front and add ```javascript: ``` Now, whenever you want to use the mod on a Shell Shockers link, click the bookmark.
 <br>
-2. If you don't want to make a bookmark, once you are on a Shell Shockers link. Copy the code of the mod you want, and delete what is currently in the URL (at the top of your screen where is says what page you are on) Type ```javascript:PASTE_CODE``` and hit enter.
+2. If you don't want to make a bookmark, once you are on a Shell Shockers link. Copy the code of the mod you want, and delete what is currently in the URL (at the top of your screen where is says what page you are on), type ```javascript:PASTE_CODE``` and hit enter.
