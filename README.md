@@ -4,6 +4,8 @@ The Shell Shockers dark mode bookmarklets, and source code. Before you use this,
 [Click here for the chrome extension!](https://chrome.google.com/webstore/detail/dark-mode-a-mod-and-shell/mbbolbckjdjlfpjahlbhcodgagdpcdnf)
 <br><br>
 
+### [GUI](bookmarklets/mods/UI%20(all%20mods)/)<br>
+
 ### [Mods](bookmarklets/mods)
  * [Change Scope](bookmarklets/mods/Specific%20Mods/Change%20Scope/)<br>
  * [Generate Random Username](bookmarklets/mods/Specific%20Mods/Generate%20Random%20Username/)<br>
