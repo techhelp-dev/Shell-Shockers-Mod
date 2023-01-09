@@ -1,7 +1,0 @@
-#killBox::before{
-	font-size: 1em;
-	font-weight: 900;
-	content: var(--killmessage)!important;
-	color: #478ef8;
-
-}
