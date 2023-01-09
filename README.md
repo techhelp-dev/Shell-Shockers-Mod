@@ -1,4 +1,4 @@
-# Shell Shockers Dark Mode ![MuaKissGIF](https://user-images.githubusercontent.com/93286645/211295717-dc7703b1-1bf0-4971-9ee1-732ed1ce4e8e.gif)
+# Shell Shockers Dark Mode 🌊🌍🌍🚀😒😒👌👌👌
 
 The Shell Shockers dark mode bookmarklets, and source code. Before you use this, if you are on an unrestricted computer, we highly reccomend using our chrome extension! 😄
 <br>
