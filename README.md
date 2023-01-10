@@ -1,4 +1,4 @@
-# Shell Shockers Dark Mode 🌊🌍
+# Shell Shockers Mod 🌊🌍
 
 The Shell Shockers dark mode bookmarklets, and source code. Before you use this, if you are on an unrestricted computer, we highly reccomend using our chrome extension! 😄
 <br>
